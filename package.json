@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
